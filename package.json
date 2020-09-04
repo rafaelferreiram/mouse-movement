@@ -1,0 +1,24 @@
+{
+  "name": "mouse-movement",
+  "version": "1.0.0",
+  "description": "Robot developed in Javascript which is responsible for moving the mouse and not letting the OS enter rest mode.",
+  "main": "index.js",
+  "dependencies": {
+    "robotjs": "^0.6.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/rafaelferreiram/mouse-movement.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/rafaelferreiram/mouse-movement/issues"
+  },
+  "homepage": "https://github.com/rafaelferreiram/mouse-movement#readme"
+}
